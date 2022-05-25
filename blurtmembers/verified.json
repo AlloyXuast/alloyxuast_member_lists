@@ -1,196 +1,242 @@
 [
    {
       "name":"chisdealhd",
-      "category":"owner alloyxuast, witness, content creator",
-      "description":"Owner of AlloyXuast Community"
+      "category":"Owner, Witness, Dev, Content Creator",
+      "description":"Owner of AlloyXuast Community",
+      "isStaff": true
    },
    {
       "name":"shmoogleosukami",
-      "category":"witness, admin alloyxuast, dev alloyxuast, content creator",
-      "description":"Hive/BLURT/STEEM Manager of AlloyXuast | Admin and DEV of AlloyXuast"
+      "category":"Admin, Witness, Dev, Content Creator",
+      "description":"Hive/BLURT/STEEM Manager of AlloyXuast | Admin and DEV of AlloyXuast",
+      "isStaff": true
    },
    {
       "name":"freakeao",
       "category":"witness, curator",
-      "description":"blurtlatam community"
+      "description":"blurtlatam community",
+      "isStaff": false
    },
    {
       "name":"tekraze",
       "category":"witness, developer",
-      "description":"Do All the dev work"
+      "description":"Do All the dev work",
+      "isStaff": false
    },
    {
       "name":"eastmael",
       "category":"witness, developer",
-      "description":"Do dev contributions"
+      "description":"Do dev contributions",
+      "isStaff": false
    },
    {
       "name":"geeklania",
       "category":"content creator",
-      "description":"owner blurthispano community"
+      "description":"owner blurthispano community",
+      "isStaff": false
    },
    {
       "name":"vickyguevara",
       "category":"content creator",
-      "description":"owner blurtlatam community"
+      "description":"owner blurtlatam community",
+      "isStaff": false
    },
    {
       "name":"blessed-girl",
       "category":"content creator, curator",
-      "description":"r2cornell community"
+      "description":"r2cornell community",
+      "isStaff": false
    },
    {
       "name":"adetorrent",
-      "category":"content creator"
+      "category":"content creator",
+      "isStaff": false
    },
    {
       "name":"alejandrop",
-      "category":"content creator"
+      "category":"content creator",
+      "isStaff": false
    },
    {
       "name":"amicablepeace",
-      "category":"content creator"
+      "category":"content creator",
+      "isStaff": false
    },
    {
       "name":"elkezaksek",
-      "category":"content creator"
+      "category":"content creator",
+      "isStaff": false
    },
    {
       "name":"hornet-on-tour",
-      "category":"witness, curator"
+      "category":"witness, curator",
+      "isStaff": false
    },
    {
       "name":"practicalthought",
-      "category":"content creator"
+      "category":"content creator",
+      "isStaff": false
    },
    {
       "name":"mineopoly",
-      "category":"content creator"
+      "category":"content creator",
+      "isStaff": false
    },
    {
       "name":"bring",
-      "category":"content creator"
+      "category":"content creator",
+      "isStaff": false
    },
    {
       "name":"alejos7ven",
       "category":"witness, developer",
-      "description":"Do dev contributions"
+      "description":"Do dev contributions",
+      "isStaff": false
    },
    {
       "name":"clixmoney",
-      "category":"content creator"
+      "category":"content creator",
+      "isStaff": false
    },
    {
       "name":"dirtyharryhh",
-      "category":"witness"
+      "category":"witness",
+      "isStaff": false
    },
    {
       "name":"dzigbordi",
-      "category":"content creator"
+      "category":"content creator",
+      "isStaff": false
    },
    {
       "name":"firdaus1998",
-      "category":"content creator"
+      "category":"content creator",
+      "isStaff": false
    },
    {
       "name":"gabrieladifazio",
-      "category":"content creator"
+      "category":"content creator",
+      "isStaff": false
    },
    {
       "name":"harmonic",
-      "category":"content creator"
+      "category":"content creator",
+      "isStaff": false
    },
    {
       "name":"ifullamri",
-      "category":"content creator"
+      "category":"content creator",
+      "isStaff": false
    },
    {
       "name":"kathe-art",
-      "category":"content creator"
+      "category":"content creator",
+      "isStaff": false
    },
    {
       "name":"kkarenmp",
-      "category":"content creator"
+      "category":"content creator",
+      "isStaff": false
    },
    {
       "name":"lachicarebelde",
-      "category":"content creator"
+      "category":"content creator",
+      "isStaff": false
    },
    {
       "name":"leifasaur",
       "category":"curator",
-      "description":"blurtafrica community"
+      "description":"blurtafrica community",
+      "isStaff": false
    },
    {
       "name":"luhpirela",
-      "category":"content creator"
+      "category":"content creator",
+      "isStaff": false
    },
    {
       "name":"mattsanthonyit",
-      "category":"content creator"
+      "category":"content creator",
+      "isStaff": false
    },
    {
       "name":"randula",
-      "category":"content creator"
+      "category":"content creator",
+      "isStaff": false
    },
    {
       "name":"rajitsear",
-      "category":"content creator"
+      "category":"content creator",
+      "isStaff": false
    },
    {
       "name":"olivia08",
-      "category":"content creator"
+      "category":"content creator",
+      "isStaff": false
    },
    {
       "name":"nazirhussain",
-      "category":"content creator"
+      "category":"content creator",
+      "isStaff": false
    },
    {
       "name":"tariqueshafique",
-      "category":"content creator"
+      "category":"content creator",
+      "isStaff": false
    },
    {
       "name":"buzzer11",
-      "category":"content creator"
+      "category":"content creator",
+      "isStaff": false
    },
    {
       "name":"dsc-r2cornell",
-      "category":"curation account"
+      "category":"curation account",
+      "isStaff": false
    },
    {
       "name":"blurtconnect-ng",
-      "category":"curation account"
+      "category":"curation account",
+      "isStaff": false
    },
    {
       "name":"blurtlatam",
-      "category":"Witness, curation account"
+      "category":"Witness, curation account",
+      "isStaff": false
    },
    {
       "name":"blurthispano",
-      "category":"Witness, curation account"
+      "category":"Witness, curation account",
+      "isStaff": false
    },
    {
       "name":"blurthispano",
-      "category":"Witness, curation account"
+      "category":"Witness, curation account",
+      "isStaff": false
    },
    {
       "name":"double-u",
-      "category":"Witness"
+      "category":"Witness",
+      "isStaff": false
    },
    {
       "name":"nerdtopiade",
-      "category":"Witness"
+      "category":"Witness",
+      "isStaff": false
    },
    {
       "name":"filosof103",
-      "category":"content creator"
+      "category":"content creator",
+      "isStaff": false
    },
    {
       "name":"reiseamateur",
-      "category":"Witness"
+      "category":"Witness",
+      "isStaff": false
    },
    {
       "name":"dotwin1981",
-      "category":"Witness"
+      "category":"Witness",
+      "isStaff": false
    }
 ]
