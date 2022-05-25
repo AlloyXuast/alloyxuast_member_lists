@@ -6,6 +6,12 @@
       "isStaff": true
    },
    {
+      "name":"alloyxuast",
+      "category":"Community Account, Witness",
+      "description":"AlloyXuast Community Account",
+      "isStaff": true
+   },
+   {
       "name":"shmoogleosukami",
       "category":"Admin, Witness, Dev, Content Creator",
       "description":"Hive/BLURT/STEEM Manager of AlloyXuast | Admin and DEV of AlloyXuast",
