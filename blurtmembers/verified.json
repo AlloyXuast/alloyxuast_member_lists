@@ -1,12 +1,196 @@
 [
-  {
-    "name": "chisdealhd",
-    "category": "owner, witness, streamer",
-    "description": "Owner of AlloyXuast Community"
-  },
-  {
-    "name": "shmoogleosukami",
-    "category": "witness, admin, dev, streamer",
-    "description": "Hive/BLURT/STEEM Manager of AlloyXuast | Admin and DEV of AlloyXuast"
-  }
+   {
+      "name":"chisdealhd",
+      "category":"owner alloyxuast, witness, content creator",
+      "description":"Owner of AlloyXuast Community"
+   },
+   {
+      "name":"shmoogleosukami",
+      "category":"witness, admin alloyxuast, dev alloyxuast, content creator",
+      "description":"Hive/BLURT/STEEM Manager of AlloyXuast | Admin and DEV of AlloyXuast"
+   },
+   {
+      "name":"freakeao",
+      "category":"witness, curator",
+      "description":"blurtlatam community"
+   },
+   {
+      "name":"tekraze",
+      "category":"witness, developer",
+      "description":"Do All the dev work"
+   },
+   {
+      "name":"eastmael",
+      "category":"witness, developer",
+      "description":"Do dev contributions"
+   },
+   {
+      "name":"geeklania",
+      "category":"content creator",
+      "description":"owner blurthispano community"
+   },
+   {
+      "name":"vickyguevara",
+      "category":"content creator",
+      "description":"owner blurtlatam community"
+   },
+   {
+      "name":"blessed-girl",
+      "category":"content creator, curator",
+      "description":"r2cornell community"
+   },
+   {
+      "name":"adetorrent",
+      "category":"content creator"
+   },
+   {
+      "name":"alejandrop",
+      "category":"content creator"
+   },
+   {
+      "name":"amicablepeace",
+      "category":"content creator"
+   },
+   {
+      "name":"elkezaksek",
+      "category":"content creator"
+   },
+   {
+      "name":"hornet-on-tour",
+      "category":"witness, curator"
+   },
+   {
+      "name":"practicalthought",
+      "category":"content creator"
+   },
+   {
+      "name":"mineopoly",
+      "category":"content creator"
+   },
+   {
+      "name":"bring",
+      "category":"content creator"
+   },
+   {
+      "name":"alejos7ven",
+      "category":"witness, developer",
+      "description":"Do dev contributions"
+   },
+   {
+      "name":"clixmoney",
+      "category":"content creator"
+   },
+   {
+      "name":"dirtyharryhh",
+      "category":"witness"
+   },
+   {
+      "name":"dzigbordi",
+      "category":"content creator"
+   },
+   {
+      "name":"firdaus1998",
+      "category":"content creator"
+   },
+   {
+      "name":"gabrieladifazio",
+      "category":"content creator"
+   },
+   {
+      "name":"harmonic",
+      "category":"content creator"
+   },
+   {
+      "name":"ifullamri",
+      "category":"content creator"
+   },
+   {
+      "name":"kathe-art",
+      "category":"content creator"
+   },
+   {
+      "name":"kkarenmp",
+      "category":"content creator"
+   },
+   {
+      "name":"lachicarebelde",
+      "category":"content creator"
+   },
+   {
+      "name":"leifasaur",
+      "category":"curator",
+      "description":"blurtafrica community"
+   },
+   {
+      "name":"luhpirela",
+      "category":"content creator"
+   },
+   {
+      "name":"mattsanthonyit",
+      "category":"content creator"
+   },
+   {
+      "name":"randula",
+      "category":"content creator"
+   },
+   {
+      "name":"rajitsear",
+      "category":"content creator"
+   },
+   {
+      "name":"olivia08",
+      "category":"content creator"
+   },
+   {
+      "name":"nazirhussain",
+      "category":"content creator"
+   },
+   {
+      "name":"tariqueshafique",
+      "category":"content creator"
+   },
+   {
+      "name":"buzzer11",
+      "category":"content creator"
+   },
+   {
+      "name":"dsc-r2cornell",
+      "category":"curation account"
+   },
+   {
+      "name":"blurtconnect-ng",
+      "category":"curation account"
+   },
+   {
+      "name":"blurtlatam",
+      "category":"Witness, curation account"
+   },
+   {
+      "name":"blurthispano",
+      "category":"Witness, curation account"
+   },
+   {
+      "name":"blurthispano",
+      "category":"Witness, curation account"
+   },
+   {
+      "name":"double-u",
+      "category":"Witness"
+   },
+   {
+      "name":"nerdtopiade",
+      "category":"Witness"
+   },
+   {
+      "name":"filosof103",
+      "category":"content creator"
+   },
+   {
+      "name":"reiseamateur",
+      "category":"Witness"
+   },
+   {
+      "name":"dotwin1981",
+      "category":"Witness"
+   }
 ]
