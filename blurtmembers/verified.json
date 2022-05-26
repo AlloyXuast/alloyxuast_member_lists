@@ -6,7 +6,8 @@
       "isStaff": true,
       "isWitness": true,
       "isDev": true,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"alloyxuast",
@@ -15,7 +16,8 @@
       "isStaff": true,
       "isWitness": true,
       "isDev": true,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"shmoogleosukami",
@@ -24,7 +26,8 @@
       "isStaff": true,
       "isWitness": true,
       "isDev": true,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"freakeao",
@@ -33,7 +36,8 @@
       "isStaff": false,
       "isWitness": true,
       "isDev": false,
-      "isContentCreator": false
+      "isContentCreator": false,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"tekraze",
@@ -42,7 +46,8 @@
       "isStaff": false,
       "isWitness": true,
       "isDev": true,
-      "isContentCreator": false
+      "isContentCreator": false,
+      "isOfficialBlurtDev": true
    },
    {
       "name":"eastmael",
@@ -51,7 +56,8 @@
       "isStaff": false,
       "isWitness": true,
       "isDev": true,
-      "isContentCreator": false
+      "isContentCreator": false,
+      "isOfficialBlurtDev": true
    },
    {
       "name":"geeklania",
@@ -60,7 +66,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"vickyguevara",
@@ -69,7 +76,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"blessed-girl",
@@ -78,7 +86,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"adetorrent",
@@ -86,7 +95,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"alejandrop",
@@ -94,7 +104,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"amicablepeace",
@@ -102,7 +113,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"elkezaksek",
@@ -110,7 +122,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"hornet-on-tour",
@@ -118,7 +131,8 @@
       "isStaff": false,
       "isWitness": true,
       "isDev": false,
-      "isContentCreator": false
+      "isContentCreator": false,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"practicalthought",
@@ -126,7 +140,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"mineopoly",
@@ -134,7 +149,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"bring",
@@ -142,7 +158,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"alejos7ven",
@@ -151,7 +168,8 @@
       "isStaff": false,
       "isWitness": true,
       "isDev": true,
-      "isContentCreator": false
+      "isContentCreator": false,
+      "isOfficialBlurtDev": true
    },
    {
       "name":"clixmoney",
@@ -159,7 +177,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"dirtyharryhh",
@@ -167,7 +186,8 @@
       "isStaff": false,
       "isWitness": true,
       "isDev": false,
-      "isContentCreator": false
+      "isContentCreator": false,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"dzigbordi",
@@ -175,7 +195,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"firdaus1998",
@@ -183,7 +204,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"gabrieladifazio",
@@ -191,7 +213,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"harmonic",
@@ -199,7 +222,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"ifullamri",
@@ -207,7 +231,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"kathe-art",
@@ -215,7 +240,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"kkarenmp",
@@ -223,7 +249,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"lachicarebelde",
@@ -231,7 +258,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"leifasaur",
@@ -240,7 +268,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": false
+      "isContentCreator": false,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"luhpirela",
@@ -248,7 +277,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"mattsanthonyit",
@@ -256,7 +286,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"randula",
@@ -264,7 +295,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"rajitsear",
@@ -272,7 +304,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"olivia08",
@@ -280,7 +313,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"nazirhussain",
@@ -288,7 +322,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"tariqueshafique",
@@ -296,7 +331,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"buzzer11",
@@ -304,7 +340,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"dsc-r2cornell",
@@ -312,7 +349,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": false
+      "isContentCreator": false,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"blurtconnect-ng",
@@ -320,7 +358,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": false
+      "isContentCreator": false,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"blurtlatam",
@@ -328,7 +367,8 @@
       "isStaff": false,
       "isWitness": true,
       "isDev": false,
-      "isContentCreator": false
+      "isContentCreator": false,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"blurthispano",
@@ -336,7 +376,8 @@
       "isStaff": false,
       "isWitness": true,
       "isDev": false,
-      "isContentCreator": false
+      "isContentCreator": false,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"blurthispano",
@@ -344,7 +385,8 @@
       "isStaff": false,
       "isWitness": true,
       "isDev": false,
-      "isContentCreator": false
+      "isContentCreator": false,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"double-u",
@@ -352,7 +394,8 @@
       "isStaff": false,
       "isWitness": true,
       "isDev": false,
-      "isContentCreator": false
+      "isContentCreator": false,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"nerdtopiade",
@@ -360,7 +403,8 @@
       "isStaff": false,
       "isWitness": true,
       "isDev": false,
-      "isContentCreator": false
+      "isContentCreator": false,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"filosof103",
@@ -368,7 +412,8 @@
       "isStaff": false,
       "isWitness": false,
       "isDev": false,
-      "isContentCreator": true
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"reiseamateur",
@@ -376,7 +421,8 @@
       "isStaff": false,
       "isWitness": true,
       "isDev": false,
-      "isContentCreator": false
+      "isContentCreator": false,
+      "isOfficialBlurtDev": false
    },
    {
       "name":"dotwin1981",
@@ -384,6 +430,7 @@
       "isStaff": false,
       "isWitness": true,
       "isDev": false,
-      "isContentCreator": false
+      "isContentCreator": false,
+      "isOfficialBlurtDev": false
    }
 ]
