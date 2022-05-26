@@ -1,19 +1,19 @@
 [
    {
       "name":"chisdealhd",
-      "category":"Owner, Witness, Dev, Content Creator",
+      "category":"| Owner | | Witness | | Dev |",
       "description":"Owner of AlloyXuast Community",
       "isStaff": true
    },
    {
       "name":"alloyxuast",
-      "category":"Community Account, Witness",
+      "category":"| Community Account | | Witness |",
       "description":"AlloyXuast Community Account",
       "isStaff": true
    },
    {
       "name":"shmoogleosukami",
-      "category":"Admin, Witness, Dev, Content Creator",
+      "category":"| Admin | | Witness | | Dev |",
       "description":"Hive/BLURT/STEEM Manager of AlloyXuast | Admin and DEV of AlloyXuast",
       "isStaff": true
    },
