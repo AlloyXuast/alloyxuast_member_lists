@@ -45,7 +45,7 @@
       "description":"Do All the dev work",
       "isStaff": false,
       "isWitness": true,
-      "isDev": true,
+      "isDev": false,
       "isContentCreator": false,
       "isOfficialBlurtDev": true
    },
@@ -55,7 +55,7 @@
       "description":"Do dev contributions",
       "isStaff": false,
       "isWitness": true,
-      "isDev": true,
+      "isDev": false,
       "isContentCreator": false,
       "isOfficialBlurtDev": true
    },
@@ -167,7 +167,7 @@
       "description":"Do dev contributions",
       "isStaff": false,
       "isWitness": true,
-      "isDev": true,
+      "isDev": false,
       "isContentCreator": false,
       "isOfficialBlurtDev": true
    },
