@@ -10,6 +10,16 @@
       "isOfficialBlurtDev": false
    },
    {
+      "name":"waffleuncle",
+      "category":"| CEO | | Dev |",
+      "description":"Owner of AlloyXuast Community",
+      "isStaff": true,
+      "isWitness": false,
+      "isDev": true,
+      "isContentCreator": true,
+      "isOfficialBlurtDev": false
+   },
+   {
       "name":"alloyxuast",
       "category":"| Community Account | | Witness |",
       "description":"AlloyXuast Community Account",
