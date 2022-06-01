@@ -25,8 +25,8 @@
       "isContentCreator": true,
       "isOfficialBlurtDev": false,
       "patreon": {
-         "isActive": false,
-         "tier": "MEGA"
+         "isActive": true,
+         "tier": "PREMIUM"
       }
    },
    {
@@ -40,8 +40,8 @@
       "isContentCreator": true,
       "isOfficialBlurtDev": false,
       "patreon": {
-         "isActive": false,
-         "tier": "MEGA"
+         "isActive": true,
+         "tier": "LEGEND"
       }
    },
    {
@@ -55,7 +55,7 @@
       "isContentCreator": true,
       "isOfficialBlurtDev": false,
       "patreon": {
-         "isActive": false,
+         "isActive": true,
          "tier": "MEGA"
       }
    },
