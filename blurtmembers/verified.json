@@ -11,7 +11,7 @@
       "isOfficialBlurtDev": false,
       "patreon": {
          "isActive": true,
-         "tier": "MEGA",
+         "tier": "MEGA"
       }
    },
    {
@@ -26,7 +26,7 @@
       "isOfficialBlurtDev": false,
       "patreon": {
          "isActive": false,
-         "tier": "MEGA",
+         "tier": "MEGA"
       }
    },
    {
@@ -41,7 +41,7 @@
       "isOfficialBlurtDev": false,
       "patreon": {
          "isActive": false,
-         "tier": "MEGA",
+         "tier": "MEGA"
       }
    },
    {
@@ -56,7 +56,7 @@
       "isOfficialBlurtDev": false,
       "patreon": {
          "isActive": false,
-         "tier": "MEGA",
+         "tier": "MEGA"
       }
    },
    {
@@ -71,7 +71,7 @@
       "isOfficialBlurtDev": true,
       "patreon": {
          "isActive": false,
-         "tier": "MEGA",
+         "tier": "MEGA"
       }
    },
    {
@@ -86,7 +86,7 @@
       "isOfficialBlurtDev": true,
       "patreon": {
          "isActive": false,
-         "tier": "MEGA",
+         "tier": "MEGA"
       }
    },
    {
@@ -101,7 +101,7 @@
       "isOfficialBlurtDev": true,
       "patreon": {
          "isActive": false,
-         "tier": "MEGA",
+         "tier": "MEGA"
       }
    }
 ]
